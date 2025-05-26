@@ -50,5 +50,7 @@ struct Item {
 }
 # Submission_of_items
 
+
 Contract Detail: 0x425be31f5044f53fdc85baabd2d5a0b32c1af6deb98a89cd4e18b9f5a134b624
-![Screenshot (57)](https://github.com/user-attachments/assets/bba72980-8012-47a7-8037-d8057acfd738)
+
+![Screenshot (68)](https://github.com/user-attachments/assets/0925a64f-4fa9-430b-b7e7-81c1d08ae52e)
