@@ -48,8 +48,7 @@ struct Item {
     uint submissionTime;
     bool isAccepted;
 }
-# Submission_of_items
-
+```
 
 Contract Detail: 0x425be31f5044f53fdc85baabd2d5a0b32c1af6deb98a89cd4e18b9f5a134b624
 
